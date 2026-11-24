@@ -1,0 +1,7 @@
+{
+    "model_name": "Logistic Regression",
+    "threshold": 0.7050530821064938,
+    "random_state": 42,
+    "test_size": 0.2,
+    "features": 10000
+}
