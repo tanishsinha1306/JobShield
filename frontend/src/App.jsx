@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react";
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://jobshield-ai-backend-1cuw.onrender.com";
 
 const initialForm = {
   title: "",
